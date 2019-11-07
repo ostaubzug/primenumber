@@ -1,2 +1,2 @@
 # primenumber
-A simple Python Code to find (large) prime numbers
+A simple Python script to find (large) prime numbers
